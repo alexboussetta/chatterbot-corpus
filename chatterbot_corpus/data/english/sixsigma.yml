@@ -1,0 +1,208 @@
+categories:
+- sixsigma
+conversations:
+- - what is Balanced Scorecard 
+  - Performance monitoring document that links long-term customer requirements, short-term objectives, measures, and targets to stimulate breakthrough improvements.  Common categories are Quality Performance, Customer Service, Financial Performance, and Work Culture. 
+- - what is Black Belt
+  - An individual who receives approximately four weeks of training in DMAIC, analytical problem-solving, and change management methods.  A Black Belt is a full-time Six Sigma team leader solving problems under the direction of a Champion.  
+- - what is Breakthrough Improvement 
+  - A rate of improvement at or near 70 percent over baseline performance of the as-is process characteristic. 
+- - what is Cause and Effect Diagram 
+  - Fishbone Diagram
+  - a pictorial diagram in the shape of a fishbone showing all possible variables that could affect a given process output measure.  Four common categories or “bones” are material, machine, man, and method. 
+- - what is Champion
+  - A Champion recognizes, defines, assigns, and supports the successful completion of Six Sigma projects; he/she is accountable for the results of the project and the business roadmap to achieve Six Sigma within his/her span of control. 
+- - what is Characteristic
+  - A process input or output which can be measured and monitored.  
+- - what is Cell
+  - The location of processing steps to allow products to be handled in a continuous flow, either one at a time or in small batch sizes.  A U shape is common because it minimizes distance traveled between process steps.  
+- - what is Common Causes of Variation
+  - Those sources of variability in a process which are truly random, i.e., inherent in the process itself.  
+- - what is Complexity
+  - The levels of difficulty to build, solve, or understand something based on the number of inputs, interactions, and uncertainty involved.  
+- - what is Continuous Flow
+  - Producing and moving one item at a time (or a small batch) through a process in a continuous manner, with each step producing just what is needed by the next step.  Also known as single-piece flow or make one, move one. 
+- - what is Control Chart
+  - The most powerful tool of statistical process control.  It consists of a run chart with statistically determined upper and lower control limits and a centerline.  
+- - what is Cost of Poor Quality (COPQ)
+  - The costs associated with any activity that is not doing the right thing right the first time.  It is the financial quantification of any waste that is not integral to the product or service which your company provides. 
+- - what is Critical to Quality (CTQ)
+  - Any characteristic that is critical to the perceived quality of the product, process, or system.  See Significant Y. 
+- - what is Critical X
+  - An input to a process or system that exerts a significant influence on any one or all of the key outputs of a process. 
+- - what is Customer
+  - Any entity or person who uses or consumes a product or service, whether internal or external to the providing organization.  
+- - what is Cycle Time (CT)
+  - The time it takes one operator to go through all work elements before repeating them.  Sometimes referred to as processing time. 
+- - what is Defect
+  - Item of work that does not meet customer expectations or defined specifications, such as time, length, color, finish, quantity, temperature, etc. 
+- - what is Defective
+  - A unit of product or service that contains at least one defect. 
+- - what is Deployment 
+  - The planning, launch, training, and implementation management of a Six Sigma initiative within a company. 
+- - what is DMAIC
+  - Acronym for Six Sigma methodology used to solve process and business problems through data and analytical methods (define, measure, analyze, improve, and control).  
+- - what is DPMO
+  - Defects per million opportunities; the total number of defects observed divided by the total number of opportunities, expressed in parts per million.  Sometimes called Defects Per Million (DPM). 
+- - what is DPU
+  - Defects per unit; the total number of defects detected in some number of units divided by the total number of those units. 
+- - what is Enabling Process
+  - Activities within a process that provide necessary support such as order processing, accounts payable, and hiring processes. 
+- - what is Failure Mode and Effects Analysis (FMEA)
+  - A procedure used to identify, assess, and mitigate risks associated with potential product, system, or process failure modes. 
+- - what is First In, First Out (FIFO)
+  - The principle and practice of ensuring the first input to a process step or storage location is the first output. 
+- - what is Fishbone Diagram
+  - See Cause and Effect Diagram.  
+- - what is 5S
+  - Five related Japanese terms all beginning with S that describe workplace practices conducive to visual management and lean production.  Translated into English they are Sort, Straighten, Shine, Standardize, and Sustain. 
+- - what is Flowchart
+  - A graphic model of the flow of activities, material, and/or information that occurs during a process.  
+- - what is Green Belt
+  - An individual who receives approximately two weeks of training in DMAIC, analytical problem-solving, and change management methods.  A Green Belt is a part-time Six Sigma position that applies Six Sigma to his/her local area, doing smaller-scoped projects and providing support to Black Belt projects. 
+- - what is Histogram
+  - A bar chart that depicts the frequencies (by the height of the plotted bars) of numerical or measurement categories.  
+- - what is Implementation Team
+  - A cross-functional executive team representing various areas of the company.  Its charter is to drive the implementation of Six Sigma by defining and documenting practices, methods, and operating policies. 
+- - what is Input
+  - A resource consumed, utilized, or added to a process or system.  Synonymous with X, characteristic, and input variable. 
+- - what is Ishikawa Diagram
+  - Cause and Effect Diagram and Fishbone Diagram.  
+- - what is Just-in-Time (JIT) Production
+  - A system of production that makes and delivers just what is needed, just when it is needed, and just in the amount needed. 
+- - what is Kaizen
+  - Continual improvement of a process to create more value with less waste.  Japanese term for good change. 
+- - what is Kaizen Event
+  - A group process improvement activity that utilizes a concentrated combined meeting and observation format to create significant improvement in a process within a short period of time.   
+- - what is Kanban
+  - A signaling device that gives authorization and instructions for the production or withdrawal of items in a pull system. 
+- - what is Lean
+  - A business system for organizing and managing product development, operations, suppliers, and customer relations that requires less human effort, less space, less capital, less material, and less time to make products with fewer defects to precise customer desires. 
+- - what is Master Black Belt
+  - An individual who has received training beyond a Black Belt.  The technical, go-to expert regarding technical and project issues in Six Sigma.  Master Black Belts teach and mentor other Six Sigma Belts and support Champions. 
+- - what is Mean
+  - See Average.  
+- - what is Measurement
+  - The act of obtaining knowledge about an event or characteristic through measured quantification or assignment to categories.  
+- - what is Metric
+  - A measure that is considered to be a key indicator of performance.  It should be linked to goals or objectives and carefully monitored. 
+- - what is Milk Run
+  - Refers to path given to a water spider in his/her parts delivery or pickup.  This path should be optimized for maximum efficiency. 
+- - what is Muda
+ - it is Waste 
+- - what is Nominal Group Technique
+  - A structured method that a team can use to generate and rank a list of ideas or items. 
+- - what is Non-value-added (NVA)
+  - Any activity performed in producing a product or delivering a service that does not add value, where value is defined as changing the form, fit, or function of the product or service and is something for which the customer is willing to pay. 
+- - what is Objective Statement
+  - A succinct statement of the goals, timing, and expectations of a Six Sigma improvement project. 
+- - what is Opportunities
+  - The number of characteristics, parameters, or features of a product or service that can be classified as acceptable or unacceptable. 
+- - what is Out of Control
+  - A process is said to be out of control if it exhibits variations larger than its control limits or shows a pattern of variation. 
+- - what is Output
+  - A resource or item or characteristic that is the product of a process or system.  See also Y, CTQ.  
+- - what is Pareto Chart
+  - A bar chart for attribute (or categorical) data presented in descending order of frequency.  
+- - what is Pareto Principle
+  - The general principle originally proposed by Vilfredo Pareto (1848-1923) that the majority (80 percent) of influence on an outcome is exerted by a minority (20 percent) of input factors. 
+- - what is PDCA
+  - Acronym for a process improvement methodology (Plan, Do, Check, Act), created by Walter Shewart in the 1930s.  Also referred to as PDSA (Plan, Do, Study, Act).  
+- - what is Poka-Yoke
+  - A translation of a Japanese term meaning “to mistake-proof.” 
+- - what is Problem Statement
+  - A succinct statement of a business situation which is used to describe the problem the Six Sigma project is attempting to solve. 
+- - what is Process
+  - A set of activities and material and/or information flow which transforms a set of inputs into outputs for the purpose of producing a product, providing a service, or performing a task.  Major Process is a process that usually involves more than one function within the organizational structure, and its operation has a significant impact on the way the organization functions.  When a major process is too complex to be flowcharted at the activity level, it is often divided into subprocesses.  Subprocess is a portion of a major process that accomplishes a specific objective in support of the major process.  Key Process is defined as a process that is important to the success of the business or the customer and/or is in need of immediate improvement to alleviate a business problem. 
+- - what is Process Flow Diagram
+  - See Flowchart. 
+- - what is Process Management System
+  - An approach used by managers and workgroups to ensure that the outputs of their work efforts are:  Predictable (stable).  Meeting customer requirements (capable).   Performed quickly and at low cost (efficient).  Aligned and optimized to deliver correct results/value to a customer (effective).  Capable of quickly changing to meet market and customer demands (adaptable). 
+- - what is It is a structured approach to aligning and optimizing how business processes work together to repeatedly and consistently deliver results/value to a customer. 
+- - what is Process Member
+  - An individual who is a key contributor or supporter for the successful completion of the deliverables from the process. 
+- - what is Process Owner
+  - Process owners have responsibility for process performance and resources.  They provide support, resources, and functional expertise to Six Sigma projects.  They are accountable for implementing developed Six Sigma solutions in their process. 
+- - what is Production Lead Time (PLT)
+  - The time it takes one piece to move all the way through a process, from start to finish.  Also referred to as throughput time. 
+- - what is Project
+  - A well-defined, documented improvement effort that states a business problem in quantifiable terms and with known expectations. 
+- - what is Project Charter
+  - A written declaration of the purpose and expected result of a project. 
+- - what is Pull Production
+  - A method of production control in which downstream activities signal their needs to upstream activities.  Goal is to eliminate overproduction.  Opposite of push production. 
+- - what is Push Production
+  - Processing large batches of items at a maximum rate, based on estimated customer demand, then moving them to the next process step, regardless of the actual pace of work or actual customer demand. 
+- - what is Range
+  - A measure of the variability in a data set.  It is the difference between the largest and smallest values in a data set.  
+- - what is Rework 
+  - Activity required to correct defects produced by a process. 
+- - what is Run Chart
+  - A basic graphical tool that charts a characteristic’s performance over time.  
+- - what is Sigma Score (Z)
+  - A commonly used measure of process capability that represents the number of shortterm standard deviations between the center of a process and the closest specification limit.  Sometimes referred to as Sigma level or simply Sigma. 
+- - what is Significant Y
+  - An output of a process that exerts a significant influence on the success of the process or the customer. 
+- - what is SIPOC Diagram
+  - Acronym for a visual representation of a process or system (Supplier, Input, Process, Output, Customer). 
+- - what is Six Sigma (System)
+  - A proven set of analytical tools, project management techniques, reporting methods, and management techniques combined to form a powerful problem-solving and business improvement methodology. 
+- - what is SMART Goals
+  - Method to establish performance expectations; acronym stands for Specific, Measureable, Agreed-upon, Realistic, Time-specific. 
+- - what is Spaghetti Diagram 
+  - Illustrates the physical flow of a person, product, or information as it moves through multiple steps in a process.  So called because the documented routes often look like a plate of spaghetti. 
+- - what is Special Cause Variation
+  - Those non-random causes of variation that can be detected by the use of control charts and good process documentation. 
+- - what is Specification Limits
+  - The bounds of acceptable performance for a characteristic. 
+- - what is Stability (of a Process)
+  - A process is said to be stable if it shows no recognizable pattern of change and no special causes of variation are present. 
+- - what is Standard Work
+  - Establishing precise procedures for each worker’s activities in a process based on three elements:  takt time, work sequence, and standard inventory. 
+- - what is Statistical Process Control (SPC)
+  - The use of basic graphical and statistical methods for measuring, analyzing, and controlling the variation of a process for the purpose of continuously improving the process.  A process is said to be in a state of statistical control when it exhibits only random variation. 
+- - what is Statistical Solution
+  - A data-driven solution with known confidence/risk levels, as opposed to a qualitative, “I think” solution. 
+- - what is Supplier
+  - An individual or entity responsible for providing an input to a process in the form of resources or information. 
+- - what is Takt Time
+  - The speed at which an area needs to operate during normal working hours in order to meet demand.  Takt time is independent of process capability and cycle time. 
+  - Regular Available Time/Period (Shift)        Units Produced/Period (Shift) 
+- - what is Tasks
+  - The individual elements and/or subsets of an activity.  Normally, tasks relate to how someone or some machine performs a specific assignment. 
+- - what is Theory of Constraints
+  - A management philosophy that concentrates on removing or managing constraints to improve throughput of a process. 
+- - what is Trend
+  - A gradual, systematic change over time or some other variable. 
+- - what is Value
+  - The inherent worth of a product as judged by the customer and reflected in its selling price and market demand. 
+- - what is Value-Added Cycle Time (VCT)
+  - Value-Added Time divided by Production Lead Time. 
+- - what is Value-Added Time (VAT)
+  - The time of those elements that actually transform the product in a way that the customer is willing to pay for. 
+- - what is Value Stream
+  - All of the actions, both value-creating and non-value-creating, required in bringing a product from concept to development and from order to delivery. 
+- - what is Value Stream Mapping (VSM)
+  - A simple diagram of every step involved in the material and information flows needed to bring a product from order to delivery. 
+- - what is Variability
+  - A generic term that refers to the property of a characteristic, process, or system to take on different values when it is repeated. 
+- - what is Variance
+  - A specifically defined mathematical measure of variability in a data set or population.  It is the square of the standard deviation. 
+- - what is Visual Workplace
+  - Work system that allows immediate assessment of the current state of operational performance. 
+- - what is VOB
+  - Voice of the business; represents the needs of the business and the key stakeholders of the business.  It is usually items such as profitability, revenue, growth, market share, etc. 
+- - what is VOC
+  - Voice of the customer; represents the expressed and non-expressed needs, wants, and desires of the recipient of a process output, a product, or a service.  It is usually expressed as specifications, requirements, or expectations. 
+- - what is VOP
+  - Voice of the process; represents the performance and capability of a process to achieve both business and customer needs.  It is usually expressed in some form of an efficiency and/or effectiveness metric. 
+- - what is Waste
+  - Waste represents material, effort, and time that does not add value in the eyes of key stakeholders (customers, employees, investors). 
+- - what is Water Spider
+  - Refers to an employee who delivers parts to the various work stations.  This is done so that others do not have to get up to obtain replenishment materials/specimens, minimizing interruption in workflow. 
+- - what is X
+  - An input characteristic to a process or system.  In Six Sigma, it is usually used in the expression of Y=f(X), where the output (Y) is a function of the inputs (X). 
+- - what is Y
+  - An output characteristic of a process.  In Six Sigma, it is usually used in the expression of Y=f(X), where the output (Y) is a function of the inputs (X). 
+- - what is Yellow Belt
+  - An individual who receives approximately one week of training in problem-solving and process optimization methods.  Yellow Belts participate in process management activities, participate on Green and Black Belt projects, and apply concepts to their work areas and their jobs. 
